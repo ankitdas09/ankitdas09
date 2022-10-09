@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ankit Das
+- 👋 Hi, I’m Ankit Das, student at IIT Guwahati
 - 👀 I’m interested in web technologies and looking to learn about ML
 - 🌱 I’m currently learning Flutter and Dart
 - 🔤 I know Python, MySQL, Typescript, JavaScript and NodeJS
